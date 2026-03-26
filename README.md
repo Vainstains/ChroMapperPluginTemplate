@@ -1,0 +1,1 @@
+A simple dotnet template to immediately get you up to speed setting up a new ChroMapper plugin. Note, this assumes you have your ChroMapper installation's directory in an environment variable called `ChroMapperDir`.
