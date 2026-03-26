@@ -1,0 +1,22 @@
+﻿{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Vainstains",
+    "classifications": [ "ChroMapper", "Plugin", "C#" ],
+    "identity": "Vainstains.ChroMapperPluginTemplate",
+    "name": "ChroMapper C# Plugin",
+    "shortName": "chromapperplugin",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "ChroMapperPluginTemplate",
+    "symbols": {
+        "Author": {
+            "type": "parameter",
+            "description": "The author of the plugin",
+            "datatype": "text",
+            "replaces": "YourName",
+            "defaultValue": "YourName"
+        }
+    }
+}
